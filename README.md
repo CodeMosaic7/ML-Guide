@@ -141,8 +141,3 @@ This project is licensed under the [MIT License](LICENSE).
 Created with ❤️ by **Manika**
 
 > “Learn the fundamentals, master the future.”
-
-```
-
----
-

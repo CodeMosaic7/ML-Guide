@@ -8,6 +8,22 @@ In simple terms, machine learning involves training a machine to learn patterns 
 
 Advanced ML is widely used in autonomous vehicles, medical diagnostics, natural language processing, fraud detection and search engines like of netflix.
 
+## AI vs ML vs DL vs GEN AI
+
+![](image.png)
+
+Artificial Intelligence (AI):
+AI is the broader concept of making machines intelligent — capable of performing tasks that typically require human intelligence, such as reasoning, problem-solving, and learning. The idea was first proposed by Alan Turing, who also introduced the Turing Test to evaluate a machine’s ability to exhibit intelligent behavior.
+
+Machine Learning (ML):
+ML is a subset of AI where machines learn from historical data and improve their performance over time without being explicitly programmed. It focuses on building models that can make predictions or decisions based on input data.
+
+Deep Learning (DL):
+DL is a specialized branch of ML inspired by the human brain’s neural networks. It uses multiple layers of artificial neurons to process data, enabling machines to think and learn like humans — especially useful in image recognition, natural language processing, and speech recognition.
+
+Generative AI (Gen AI):
+Gen AI builds upon deep learning techniques to create new data, such as text, images, audio, or videos. Popular examples include ChatGPT, DALL·E, and Midjourney, which can generate realistic and creative outputs from user prompts.
+
 ## Types of Learning 
 
 1. Supervised Learning
