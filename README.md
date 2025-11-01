@@ -1,7 +1,7 @@
 ```markdown
 # 🧠 Machine Learning Guide
 
-A complete **guide** to understanding the concepts, algorithms, and practical applications of **Machine Learning (ML)**.  
+A complete **guide** to understand the concepts, algorithms, and practical applications of **Machine Learning (ML)**.  
 This repository helps you **learn ML from the ground up** with explanations, code examples, and real-world projects using Python.
 
 ---
@@ -93,7 +93,7 @@ This guide includes simple and clean datasets (CSV format) for practice:
 
 | Dataset        | Description             | Task Type           |
 | -------------- | ----------------------- | ------------------- |
-[UPCOMING]
+[UNDER WORK]
 
 You can also replace them with your own datasets for experimentation.
 
@@ -103,7 +103,7 @@ You can also replace them with your own datasets for experimentation.
 
 | Project                   | Description                             | Concepts Used                      |
 | ------------------------- | --------------------------------------- | ---------------------------------- |
-[UPCOMING]
+[UNDER WORK]
 
 ---
 
