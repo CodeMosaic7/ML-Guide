@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Machine Learning Guide
 
 A complete **guide** to understand the concepts, algorithms, and practical applications of **Machine Learning (ML)**.  
