@@ -24,12 +24,14 @@ DL is a specialized branch of ML inspired by the human brain’s neural networks
 Generative AI (Gen AI):
 Gen AI builds upon deep learning techniques to create new data, such as text, images, audio, or videos. Popular examples include ChatGPT, DALL·E, and Midjourney, which can generate realistic and creative outputs from user prompts.
 
-## Types of Learning 
+## TYPES OF LEARNING
 
 1. Supervised Learning
 In supervised learning, the model is trained on a labeled dataset, meaning each input is paired with the correct output. The algorithm learns the relationship between the inputs and outputs and uses this function to predict the output for new, unseen data. It's like a student learning with answer keys.
 Its types are:
+
 i. Regresssion: Predicting continuous values (e.g., predicting house prices).
+
 ii. Classification: Categorizing data into discrete classes (e.g., spam or not spam).
 
 2. Unsupervised Learning
@@ -44,3 +46,35 @@ This approach uses a combination of a small amount of labeled data and a large a
 
 4. Reinforcement Learning
 Reinforcement learning trains an "agent" to make a sequence of decisions by interacting with an environment and receiving feedback in the form of rewards or penalties. The goal is for the agent to learn the best strategy (policy) to maximize the cumulative reward over time through trial and error.
+
+### REGRESSION
+
+A statistical method used to analyze and model the relationship between dependent and independent variables.
+It helps make predictions and understand how variables are related to each other.
+Regression is a form of supervised learning, where the algorithm learns from labeled data to predict continuous outcomes. The main goal of regression algorithms is to find the best-fit line that represents the relationship between variables.
+It is widely used in fields such as economics and finance for forecasting, asset valuation, and understanding relationships between market factors.
+Usually a ML is model has following steps:
+
+![alt text](image-1.png)
+
+Common regression algorithms:
+
+-Linear Regression
+-Polynomial Regression
+-Ridge and Lasso Regression
+-Logistic Regression (for classification tasks)
+
+
+### CLASSIFICATION
+
+Classification is a supervised learning method used to categorize data into predefined classes or groups.
+Unlike regression, which predicts continuous values, classification predicts discrete outcomes — such as “spam or not spam,” “disease or no disease,” or “pass or fail.”
+The main goal of classification algorithms is to find decision boundaries that best separate different classes in the data. These models learn patterns from labeled training data and then use that knowledge to classify new, unseen data accurately.
+It is widely used in fields like healthcare, finance, marketing, and cybersecurity for tasks such as disease diagnosis, credit scoring, customer segmentation, and fraud detection.
+
+-Logistic Regression
+-Decision Trees
+-Random Forest
+-Support Vector Machines (SVM)
+-K-Nearest Neighbors (KNN)
+-Naive Bayes
