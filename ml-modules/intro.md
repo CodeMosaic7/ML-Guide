@@ -78,3 +78,15 @@ It is widely used in fields like healthcare, finance, marketing, and cybersecuri
 -Support Vector Machines (SVM)
 -K-Nearest Neighbors (KNN)
 -Naive Bayes
+
+### CLUSTERING
+
+Clustering is an unsupervised learning technique used to group similar, unlabeled data points into clusters based on defined similarity or distance measures.
+The main goal of clustering is to organize data into groups such that data points within the same cluster are more similar to each other than to those in other clusters.
+
+Common clustering algorithms include:
+
+-K-Means Clustering
+-Hierarchical Clustering
+-DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+-Affinity Propagation
