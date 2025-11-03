@@ -1,11 +1,11 @@
-# 🧠 Machine Learning Guide
+# Machine Learning Guide
 
 A complete **guide** to understand the concepts, algorithms, and practical applications of **Machine Learning (ML)**.  
 This repository helps you **learn ML from the ground up** with explanations, code examples, and real-world projects using Python.
 
 ---
 
-## 📘 Overview
+## Overview
 
 **Machine Learning (ML)** is a subset of **Artificial Intelligence (AI)** that focuses on developing algorithms and models that learn patterns from training data and make predictions or decisions on unseen data.  
 ML enables tasks like **classification**, **regression**, **clustering**, and **dimensionality reduction** across various data types such as text, images, and numbers.
@@ -50,11 +50,11 @@ ml-guide/
 ├── LICENSE                     # License file
 └── README.md                   # You are here
 
-````
+```
 
 ---
 
-## 🧮 Topics Covered
+## Topics Covered
 
 1. **Introduction to Machine Learning**  
 2. **Data Preprocessing & Feature Engineering**  
@@ -65,13 +65,13 @@ ml-guide/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/ml-guide.git
 cd ml-guide
-````
+```
 
 ### 2. Install Dependencies
 
@@ -98,7 +98,7 @@ You can also replace them with your own datasets for experimentation.
 
 ---
 
-## 🧠 Projects
+## Projects
 
 | Project                   | Description                             | Concepts Used                      |
 | ------------------------- | --------------------------------------- | ---------------------------------- |
@@ -106,7 +106,7 @@ You can also replace them with your own datasets for experimentation.
 
 ---
 
-## ⚙️ Tools & Libraries
+## Tools & Libraries
 
 * **Python 3.x**
 * **NumPy**
@@ -130,13 +130,21 @@ If you’d like to add examples, improve explanations, or fix bugs:
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 💬 Author
+## 7️⃣ References
+
+* *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* — Aurélien Géron
+* [Scikit-learn Regression Docs](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
+* [Kaggle Regression Datasets](https://www.kaggle.com/datasets?tags=13205)
+
+---
+
+## Author
 
 Created with ❤️ by **Manika**
 
