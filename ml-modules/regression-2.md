@@ -121,6 +121,6 @@ print("MSE:", mean_squared_error(y_test, pred))
 
 ### 🔗 Navigation
 
-← [Back to ML Basics](../README.md) | [Next → Classification](classification.md)
+← [Back to ML Basics](../README.md) | [Next → Linear Regression](linear-regression-3.md)
 
 ---
